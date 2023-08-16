@@ -1,0 +1,45 @@
+* {
+    background-color: #011936;
+    color: #C0DFA1;
+    font-family: 'Courier New', 'Brush Script MT', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+ul,
+ol {
+    font-size: 18px;
+}
+
+a {
+    font-size: 20px;
+}
+
+.links li {
+    margin: 20px;
+}
+
+
+.links li a {
+    font-size: 30px;    
+    background-color: #C0DFA1;
+    color: #011936;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
